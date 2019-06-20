@@ -3,4 +3,4 @@
 
 ## 글자 크기를 나타냅니다.
 
-# [Vision Lab](
+# [Vision Lab](http://cafe.naver.com/vl)
